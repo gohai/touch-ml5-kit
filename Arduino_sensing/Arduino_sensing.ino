@@ -51,7 +51,7 @@ void loop() {
     OCR1A = d / 2;               //
     SET(TCCR1B, 0);              // Restart generator
 
-    results[d] = results[d] * 0.5f + (float)(v)*0.5f;  // Filter results
+    results[d] = results[d] * 0.8f + (float)(v)*0.2f;  // Filter results
   }
 
   for (uint8_t i = 0; i < N; i++) {
