@@ -4,6 +4,7 @@
 
 👉 **Try the [p5.js example sketch](https://editor.p5js.org/gohai/sketches/TsMkm30Jv)!**
 
+👉 **Watch the [video](https://www.youtube.com/watch?v=E4tYpXVTjxA)**
 
 ## Credits
 
