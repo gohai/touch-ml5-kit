@@ -1,7 +1,7 @@
 // "Touché: Enhancing Touch Interaction on Humans, Screens, Liquids, and Everyday Objects" (2012) by Munehiko Sato, Ivan Poupyrev & Chris Harrison
 // Port to Arduino by DZL, Instructible by Mads Hobye
 
-// For Arduino sketch & PCB design:
+// For Arduino sketch, PCB design, and additional information:
 // https://github.com/gohai/touch-ml5-kit
 
 let port;
